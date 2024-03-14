@@ -4,6 +4,6 @@
 - 💞️ I’m looking to collaborate on any basic collaboratives that will help me grow in my feild of interest.
 - 📫 How to reach me
 - LinkedIn(https://www.linkedin.com/in/apoorva-karne-053820233)
-- X()
+- X(@apoorvakarne)
 - Contact(apoorvakarne30@gmail.com)
 - ⚡ Fun fact:I CHOSE COMPUTER SCIENCE MAJOR!!!!!
