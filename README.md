@@ -40,10 +40,12 @@
 ---
 
 ## 💡 Motto
+> "I began my journey solving simple logic problems in C, and today, I’m building full-fledged software systems. 🚀"
 > "Code is like humor. When you have to explain it, it’s bad."  
 
 ---
 
 ## ✨ Fun Fact
-I began my journey solving simple logic problems in C, and today, I’m building full-fledged software systems. 🚀  
+Code is like humor. When you have to explain it, it’s bad.
+  
 
