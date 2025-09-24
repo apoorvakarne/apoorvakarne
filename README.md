@@ -8,7 +8,7 @@
 
 ## 👩‍💻 About Me
 - 🎓 Final-year Computer Science student at **SPPU Pune**  
-- 🌐 Member of **GDG OnCampus MESWCOE**  
+- 🌐 Club-Lead of **Techverse MESWCOE**  
 - 💻 Skilled in `Java`,`Python`, `PHP`,`Androidstudio` and `MySQL`  
 - ☁️ Exploring **Cloud Computing** (Google Cloud) & **Generative AI**  
 - 🔍 Passionate about solving problems and building scalable applications  
