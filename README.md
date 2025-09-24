@@ -9,7 +9,7 @@
 ## 👩‍💻 About Me
 - 🎓 Final-year Computer Science student at **SPPU Pune**  
 - 🌐 Member of **GDG OnCampus MESWCOE**  
-- 💻 Skilled in `Java`, `Spring Boot`, `Angular`, `Python`, `PHP`, and `MySQL`  
+- 💻 Skilled in `Java`,`Python`, `PHP`,`Androidstudio` and `MySQL`  
 - ☁️ Exploring **Cloud Computing** (Google Cloud) & **Generative AI**  
 - 🔍 Passionate about solving problems and building scalable applications  
 - 🔁 Constant learner with a mindset of *debugging both life and code*  
