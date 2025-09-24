@@ -27,7 +27,7 @@
 
 ## 🛠️ Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=androidstudio,html,css,js,java,python,php,mysql,mongodb,git,github,nextjs,figma,photoshop,canva&perline=9" />
+  <img src="https://skillicons.dev/icons?i=androidstudio,html,css,js,java,python,php,mysql,mongodb,git,github,figma,photoshop,canva&perline=9" />
 </p>
 
 ---
