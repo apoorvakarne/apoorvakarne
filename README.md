@@ -27,7 +27,7 @@
 
 ## 🛠️ Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,java,spring,angular,python,php,mysql,mongodb,git,github,aws,gcp,nextjs,vite,opencv,figma,blender,photoshop,illustrator,lightroom,canva&perline=9" />
+  <img src="https://skillicons.dev/icons?i=androidstudio,html,css,js,java,python,php,mysql,mongodb,git,github,nextjs,figma,photoshop,canva&perline=9" />
 </p>
 
 ---
@@ -59,14 +59,8 @@
 ## 🎨 Beyond Code
 - 📝 Trek enthusiastic 
 - 📷 Vlogging 
-- 💃 Exploring Creative Expression  
-
+- 💃 Exploring Creative Expression
+- 
 ---
 
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=apoorvakarne&icon=0&color=0" alt="Profile Visits"/>
-</p>
-
----
-
-<p align="center"><i>Thanks for visiting! Let’s connect, collaborate, and build something impactful together 💡</i></p>
+<p align="center"><i>Thanks for visiting! Let’s connect. </i></p>
