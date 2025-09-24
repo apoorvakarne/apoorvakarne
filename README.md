@@ -60,7 +60,6 @@
 - 📝 Trek enthusiastic 
 - 📷 Vlogging 
 - 💃 Exploring Creative Expression
-- 
 ---
 
 <p align="center"><i>Thanks for visiting! Let’s connect. </i></p>
