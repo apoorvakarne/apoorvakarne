@@ -1,51 +1,77 @@
-<h1 align="center"><b>Hi there 👋, I'm Apoorva Karne</b></h1>  
+<h1 align="center">👋 Hi, I'm Vaishnavi Pawar</h1>
 
 <p align="center">
-  💻 Passionate Programmer | 🚀 Aspiring Software Engineer | 📚 Lifelong Learner
+  🚀 Full-Stack Developer | 🎓 CS Undergrad (SPPU Pune) | 🌐 Tech Enthusiast  
 </p>
 
 ---
 
-## 🔗 Connect with Me
-<p align="center">
-  <a href="https://www.linkedin.com/in/apoorva-karne/">
-    <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
-  </a>
-  <a href="https://github.com/apoorvakarne">
-    <img src="https://img.shields.io/github/followers/apoorvakarne?label=Follow&style=for-the-badge&logo=github" alt="GitHub"/>
-  </a>
-</p>
+## 👩‍💻 About Me
+- 🎓 Final-year Computer Science student at **SPPU Pune**  
+- 🌐 Member of **GDG OnCampus MESWCOE**  
+- 💻 Skilled in `Java`, `Spring Boot`, `Angular`, `Python`, `PHP`, and `MySQL`  
+- ☁️ Exploring **Cloud Computing** (Google Cloud) & **Generative AI**  
+- 🔍 Passionate about solving problems and building scalable applications  
+- 🔁 Constant learner with a mindset of *debugging both life and code*  
+
+---
+
+## 🚀 Featured Projects
+- 📂 [**Custom Virtual File System**](https://github.com/) — Developed a UNIX-like file system with file operations and metadata management.  
+- 🌐 [**Full-Stack Web App**](https://github.com/) — Built a responsive web application using Angular + Spring Boot with MySQL backend.  
+- 🔐 [**Authentication & Authorization System**](https://github.com/) — Role-based access management implemented in Java + Spring Security.  
+- 🤖 [**AI-Powered Image Classifier**](https://github.com/) — Trained a Python + OpenCV model to classify real-world images.  
+- 🎨 [**Portfolio Website**](https://github.com/) — Personal portfolio built with Next.js + Netlify showcasing design and dev work.  
+
+*(Replace the links with your actual GitHub repositories)*  
 
 ---
 
 ## 🛠️ Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,java,mysql,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,java,spring,angular,python,php,mysql,mongodb,git,github,aws,gcp,nextjs,vite,opencv,figma,blender,photoshop,illustrator,lightroom,canva&perline=9" />
 </p>
 
 ---
 
-## 🚀 Featured Projects
-- 🔐 [Pack UnPack Tool](https://github.com/atharvaparchure/CtOS-Compresser-and-encrypter) — Efficient utility to compress and encrypt large directories into a single file.  
-- 📂 [UNIX-CVFS](https://github.com/atharvaparchure/UNIX-Customized-Virtual-File-System) — Custom virtual file system inspired by Linux architecture.  
-- ⚡ [Logic-Building Exercises](https://github.com/atharvaparchure/Logic_Building_assignments) — A collection of beginner-friendly C problems to strengthen logic.  
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=vaishnavipawar123&theme=tokyonight&hide_border=false&show_icons=true" height="150"/>  
+  <img src="https://nirzak-streak-stats.vercel.app/?user=vaishnavipawar123&theme=tokyonight&hide_border=false" height="150"/>  
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaishnavipawar123&theme=tokyonight&hide_border=false&layout=compact" height="150"/>
+</p>
 
 ---
 
-## 📖 Currently Exploring
-- Advanced **Data Structures & Algorithms** in C++  
-- **Software Design Patterns** for scalable architecture  
-- **Backend Development** using Java & MySQL  
+## 🌐 Connect with Me
+<p align="center">
+  <a href="https://www.linkedin.com/in/vaishnavi-pawar-24b636215/">
+    <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin"/>
+  </a>
+  <a href="mailto:vaishnavipawar860@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://www.instagram.com/viis_cameraroll/">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+</p>
 
 ---
 
-## 💡 Motto
-> "I began my journey solving simple logic problems in C, and today, I’m building full-fledged software systems. 🚀"
-> "Code is like humor. When you have to explain it, it’s bad."  
+## 🎨 Beyond Code
+- 📝 Graphic Design | 🎨 Digital Art | 🎥 Blender Animations  
+- 📷 Creative Photography & Visual Storytelling  
+- 💃 Dancing & Exploring Creative Expression  
 
 ---
 
-## ✨ Fun Fact
-Code is like humor. When you have to explain it, it’s bad.
-  
+<p align="center">
+  <img src="https://visitcount.itsvg.in/api?id=vaishnavipawar123&icon=0&color=0" alt="Profile Visits"/>
+</p>
 
+---
+
+<p align="center"><i>Thanks for visiting! Let’s connect, collaborate, and build something impactful together 💡</i></p>
