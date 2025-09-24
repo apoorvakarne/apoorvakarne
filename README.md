@@ -57,7 +57,7 @@
 ---
 
 ## 🎨 Beyond Code
-- 📝 Trek enthusiastic 
+- 📝 Trek enthusiast 
 - 📷 Vlogging 
 - 💃 Exploring Creative Expression
 ---
