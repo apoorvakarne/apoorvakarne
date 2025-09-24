@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hi, I'm Vaishnavi Pawar</h1>
+<h1 align="center">👋 Hi, I'm Apoorva karne</h1>
 
 <p align="center">
   🚀 Full-Stack Developer | 🎓 CS Undergrad (SPPU Pune) | 🌐 Tech Enthusiast  
@@ -21,9 +21,7 @@
 - 🌐 [**Full-Stack Web App**](https://github.com/) — Built a responsive web application using Angular + Spring Boot with MySQL backend.  
 - 🔐 [**Authentication & Authorization System**](https://github.com/) — Role-based access management implemented in Java + Spring Security.  
 - 🤖 [**AI-Powered Image Classifier**](https://github.com/) — Trained a Python + OpenCV model to classify real-world images.  
-- 🎨 [**Portfolio Website**](https://github.com/) — Personal portfolio built with Next.js + Netlify showcasing design and dev work.  
-
-*(Replace the links with your actual GitHub repositories)*  
+- 🎨 [**Portfolio Website**](https://github.com/) — Personal portfolio built with Next.js + Netlify showcasing design and dev work.   
 
 ---
 
@@ -48,28 +46,25 @@
 
 ## 🌐 Connect with Me
 <p align="center">
-  <a href="https://www.linkedin.com/in/vaishnavi-pawar-24b636215/">
+  <a href="https://www.linkedin.com/in/apoorva-karne/">
     <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin"/>
   </a>
-  <a href="mailto:vaishnavipawar860@gmail.com">
+  <a href="mailto:apoorvakarne30@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://www.instagram.com/viis_cameraroll/">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
 </p>
 
 ---
 
 ## 🎨 Beyond Code
-- 📝 Graphic Design | 🎨 Digital Art | 🎥 Blender Animations  
-- 📷 Creative Photography & Visual Storytelling  
-- 💃 Dancing & Exploring Creative Expression  
+- 📝 Trek enthusiastic 
+- 📷 Vlogging 
+- 💃 Exploring Creative Expression  
 
 ---
 
 <p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=vaishnavipawar123&icon=0&color=0" alt="Profile Visits"/>
+  <img src="https://visitcount.itsvg.in/api?id=apoorvakarne&icon=0&color=0" alt="Profile Visits"/>
 </p>
 
 ---
