@@ -16,15 +16,6 @@
 
 ---
 
-## 🚀 Featured Projects
-- 📂 [**Custom Virtual File System**](https://github.com/) — Developed a UNIX-like file system with file operations and metadata management.  
-- 🌐 [**Full-Stack Web App**](https://github.com/) — Built a responsive web application using Angular + Spring Boot with MySQL backend.  
-- 🔐 [**Authentication & Authorization System**](https://github.com/) — Role-based access management implemented in Java + Spring Security.  
-- 🤖 [**AI-Powered Image Classifier**](https://github.com/) — Trained a Python + OpenCV model to classify real-world images.  
-- 🎨 [**Portfolio Website**](https://github.com/) — Personal portfolio built with Next.js + Netlify showcasing design and dev work.   
-
----
-
 ## 🛠️ Tech Stack
 <p align="center">
   <img src="https://skillicons.dev/icons?i=androidstudio,html,css,js,java,python,php,mysql,mongodb,git,github,figma,photoshop,canva&perline=9" />
